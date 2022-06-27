@@ -1,28 +1,28 @@
-if game.PlaceId == 8540346411 then -- Rebirth Champions X https://rbxscript.com/post/RebirthChampionsXAutoFarmGUI-xVSle
+if game.PlaceId == 8540346411 then
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"))()
 
-elseif game.PlaceId == 8592863835 then -- Magnet Simulator 2 https://rbxscript.com/post/MagnetSimulator2GUIAutoFarm-xBhKD
+elseif game.PlaceId == 8592863835 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kederal/script.gg/main/loader.lua"))()
 
-elseif game.PlaceId == 9751569460 then -- ARCH PIECE https://rbxscript.com/post/ARCHPIECEAutoFarm-hGdn9
+elseif game.PlaceId == 9751569460 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xpa1n/Scripts/main/ArchPiece.lua"))()
       
-elseif game.PlaceId == 4787629450 then -- BOOGA BOOGA https://rbxscript.com/post/BOOGABOOGAKillauraGodmodeInvisibility-xN6RQ
+elseif game.PlaceId == 4787629450 then 
       loadstring(game:HttpGet("https://lkhub.net/s/loader.lua"))()
       
-elseif game.PlaceId == 4616652839 then -- Shindo Life https://rbxscript.com/post/ShindoLifeAutoFarmAutoFarmBossAutoRank-5FcKl
+elseif game.PlaceId == 4616652839 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/SxnwDev/Premier/main/PremierX-Free.lua"))()
 
-elseif game.PlaceId == 920587237 then -- Adopt Me! https://rbxscript.com/post/AdoptMeAutoFarmAutoBabyMore-LbaA0
+elseif game.PlaceId == 920587237 then 
     loadstring(game:HttpGet("https://pastebin.com/raw/34KnyYvi"))()
 
-elseif game.PlaceId == 6284583030 then -- Pet Simulator X https://rbxscript.com/post/PetSimulatorXDeltaHUBCrecked-06F79
+elseif game.PlaceId == 6284583030 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/lxnnydev/Delta-PSX/main/loader.lua"))()
 
-elseif game.PlaceId == 1962086868 then -- Tower of Hell https://rbxscript.com/post/TowerofHellTPToEndMore-5Scst
+elseif game.PlaceId == 1962086868 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/rinqedd/rblx/main/scripts/Tower%20of%20Hell"))()
 
-elseif game.PlaceId == 9103460924 then -- Sword Factory X https://rbxscript.com/post/SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier-5yv5n
+elseif game.PlaceId == 9103460924 then 
 _G.Credits = "discord.gg/rips"
 _G.RedGUI = true
 _G.Theme = "Dark" -- Must disable or remove _G.RedGUI to use
@@ -30,37 +30,37 @@ _G.Theme = "Dark" -- Must disable or remove _G.RedGUI to use
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SwordFactoryX.lua"))()
 
-elseif game.PlaceId == 7560156054 then -- Clicker Simulator https://rbxscript.com/post/ClickerSimulatorOnClickToggleeggGamePass-y3NEG
+elseif game.PlaceId == 7560156054 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/harisiskandar178/5repo/main/script4.lua"))()
 
-elseif game.PlaceId == 1537690962 then -- Bee Swarm Simulator https://rbxscript.com/post/BeeSwarmSimulatorAutoFarmAutoDigFarmFlames-Y7qWP
+elseif game.PlaceId == 1537690962 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
 
-elseif game.PlaceId == 8554378337 then -- Weapon Fighting Simulator https://rbxscript.com/post/WeaponFightingSimulatorFreeGame-3DgbI
+elseif game.PlaceId == 8554378337 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/vfvo/scripts/main/weaponfightsim.lua"))()
 
-elseif game.PlaceId == 6299805723 then -- Anime Fighters Simulator https://rbxscript.com/post/AnimeFightersSimulatorAutoFarmAutoFuse-9Dt8y
+elseif game.PlaceId == 6299805723 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/Discord0000/Zer0Hub/main/MainScript.lua"))()
 
-elseif game.PlaceId == 142823291 then -- Murder Mystery 2 https://rbxscript.com/post/MurderMystery2ChamsReachSilentAimMore-2uC8q
+elseif game.PlaceId == 142823291 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/Murder%20Mystery%202.lua"))()
 
-elseif game.PlaceId == 286090429 then -- Arsenal https://rbxscript.com/post/ArsenalGUIAimbotAntiAimES-jIsRr
+elseif game.PlaceId == 286090429 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucitrash-vCoder/1/main/newrobloxscriptsarsenal1"))()
       
-elseif game.PlaceId == 2809202155 then -- Your Bizarre Adventure https://rbxscript.com/post/YourBizarreAdventureAutobuy-alDdR
+elseif game.PlaceId == 2809202155 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua"))()
       
-elseif game.PlaceId == 9551640993 then -- Mining Simulator 2 https://rbxscript.com/post/MiningSimulator2NameEggNamePetAutoDeleteseffect-5cgwY
+elseif game.PlaceId == 9551640993 then 
       loadstring(game:HttpGet("https://pst.klgrth.io/paste/ay4bd/raw"))()
 
-elseif game.PlaceId == 2753915549 then -- Blox Fruits https://rbxscript.com/post/BloxFruitsAutoFArmLevelFastAttackAutoNewWorld-HlTqa
+elseif game.PlaceId == 2753915549 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/hxllow"))()
 
-elseif game.PlaceId == 537413528 then -- Build A Boat For Treasure https://rbxscript.com/post/BuildABoatForTreasureGUIAutoFarmAutoBuyJlmqp
+elseif game.PlaceId == 537413528 then 
       loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/loader'))()
 
-elseif game.PlaceId == 606849621 then -- Jailbreak https://rbxscript.com/post/JailbreakkillAuraAutoFarmCollectairdrops-Tmcx6
+elseif game.PlaceId == 606849621 then 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()
 
 end
